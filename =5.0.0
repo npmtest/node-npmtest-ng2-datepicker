@@ -1,0 +1,7 @@
+npmtest-ng2-datepicker@0.0.1 /home/travis/build/npmtest/node-npmtest-ng2-datepicker
+├── UNMET PEER DEPENDENCY @angular/core@4.0.3
+├── UNMET PEER DEPENDENCY @angular/forms@^2.4.0
+├─┬ rxjs@5.3.0 
+│ └── symbol-observable@1.0.4 
+└── UNMET PEER DEPENDENCY zone.js@>=0.7.0
+
